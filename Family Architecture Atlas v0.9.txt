@@ -1,0 +1,443 @@
+﻿Constitutional Maintenance Program — Family Architecture Atlas
+Technical reference · November 2026 · Thirteen areas of governmental responsibility
+This atlas explains the thirteen areas of governmental responsibility introduced in the Public Prospectus. It helps a reader locate a specific issue, identify related responsibilities, and distinguish possible failures from safeguards that are working. The short descriptions come first; later tables provide detailed research and source references for readers who need them.
+The thirteen areas are an organizing map for research and possible legislative development. They are not findings that a constitutional failure has occurred, and they are not thirteen proposed laws. The accompanying Lean files verify specified properties of the formal model, not real-world legal or factual conclusions.
+Reading guide: Sections 1–3 explain the thirteen areas and how they relate. Sections 4–5 are optional technical references: Section 4 indexes federal research topics, while Section 5 traces the map to the source record. Their letter-number codes are reference keys, not terms readers need to adopt. Sections 6–11 provide historical examples, standards for revising the map, requirements for developing inquiries, formal verification, and guidance for independent use.
+The detailed source tables and historical records preserve the basis for the map. Readers may use, challenge, or adapt the method independently; they need not submit work to the original project or obtain central approval.
+1. How the map works
+The starting point is the responsibility at issue and what must happen for that responsibility to be fulfilled—not the name of an agency, the political topic, or a preferred legislative solution. A legal authorization does not by itself deliver a service; an oversight finding does not by itself correct a problem; and an official record does not by itself ensure that a successor institution carries out a continuing obligation. Each inquiry must establish which step matters, who is legally responsible, and what the evidence shows.
+The map currently contains thirteen areas. Separate topics such as technology and revenue collection are addressed within these areas unless evidence shows that a genuinely distinct responsibility is missing. The twenty federal research topics in Section 4 help readers find a starting point; they are not additional constitutional functions. The source crosswalk and nine historical examples illustrate how assignments can be tested without treating any example as proof of a nationwide failure. No specific bill or constitutional amendment has been selected.
+Three questions for placing an inquiry
+1. What responsibility are we examining, and which institution is legally responsible for it?
+2. What legal authority, resources, records, procedures, and evidence are necessary for that responsibility to be fulfilled?
+3. What specifically would fail if those conditions were absent—and what existing safeguard or lawful result might show that the system is working?
+2. Thirteen areas of governmental responsibility
+Each area identifies a responsibility, the conditions worth checking, the failure that might be demonstrated, and neighboring responsibilities that must not be confused with it. The codes in parentheses are optional cross-references for the detailed tables. None of these descriptions establishes a particular historical failure or requires a new law.
+Claims and correction (F01)
+Responsibility: Give a person a lawful way to bring a claim or correction request to the institution responsible for considering it.
+What to check: Person and claim identified; lawful entry; bounded classification if applicable; contest/correction route.
+Possible breakdown: A claim or correction that should reach a responsible institution does not reach it or cannot be considered through the required process.
+Related responsibilities and lawful controls: Courts decide legal disputes; reliable information supports material decisions; records carry binding corrections forward; and service offices perform actual delivery. A lawful denial is not automatically a failure.
+Representation and elections (F02)
+Responsibility: Ensure that lawful public participation and certified election results reach the institutions authorized to act on them.
+What to check: Participation/challenge route; canvass/certification; lawful interstate/federal handoff; operative authorization.
+Possible breakdown: Valid certified consequence fails to reach its required successor, or an unauthorized actor takes the electoral power.
+Related responsibilities and lawful controls: State and federal authority, certification records, and later congressional procedures may each involve a different institution. A correctly completed certification is a functioning safeguard.
+Congressional authority (F03)
+Responsibility: Preserve the distinct powers and procedures of the House, Senate, committees, and Congress as a whole, including lawful approval and refusal.
+What to check: Exact House/Senate power, threshold, proceeding and effect, with required records and legal transmission.
+Possible breakdown: A required gate cannot operate or its result is unlawfully ascribed to another chamber/power despite surviving process.
+Related responsibilities and lawful controls: Congressional powers are distinct from appropriated resources, official records, and independent oversight. A lawful Senate decision is not a failure merely because the result was unwanted.
+Public resources (F04)
+Responsibility: Keep raising, spending, appropriation, allocation and legally usable public resources distinct from performed service.
+What to check: Specific fiscal law and date; amount/purpose constraints; actual allocable balance and lawful recipient.
+Possible breakdown: Legal funds cannot reach the responsible function, or expenditure bypasses a restriction, while adjacent institutions survive.
+Related responsibilities and lawful controls: The legal availability of funds is distinct from whether a program actually performs its work. Appropriation and spending questions require attention to the specific law, timing, and lawful alternatives.
+Executive power and limits (F05)
+Responsibility: Keep coercive and emergency executive actions within their lawful authorization, scope, duration, and review requirements.
+What to check: Named action and affected persons; dated decision and permission; review and taper/inhibition where required.
+Possible breakdown: An executive action begins or continues without the required authority or remains in effect after its lawful basis ends.
+Related responsibilities and lawful controls: A particular use of force is different from ordinary administration, external security authority, and the accuracy of the information used to justify an action. The evidence may support a lawful restraint rather than a failure.
+Courts and remedies (F06)
+Responsibility: Maintain competent adjudication and transfer a legally operative remedy to the correct implementing actor.
+What to check: Jurisdiction; evidentiary/reasoned decision; enforceable order if any; bound recipient; verification of compliance where owed.
+Possible breakdown: A court fails its assigned evaluation or an actual binding remedy cannot be lawfully carried despite competent surviving actors.
+Related responsibilities and lawful controls: Court access, judgment, transmission of an order, actual compliance, and independent verification are separate stages. An adverse but lawful judgment is not itself a failure.
+Continuing public records (F07)
+Responsibility: Preserve binding decisions and corrections so that later responsible officials or institutions can act on them as required.
+What to check: Authenticated version; source and effective time; custodian; authorized next recipient; answerable later effect.
+Possible breakdown: An operative decision or correction exists but is not transmitted to, recognized by, or applied by an institution legally bound to act on it.
+Related responsibilities and lawful controls: Evidence reliability is distinct from the legal effect of a record; issuing an order differs from carrying it forward; and replacing an office does not automatically end its obligations. Storing a record is not enough if a later actor must use it.
+Reliable government information (F08)
+Responsibility: Keep consequential public information appropriately sourced, independently checked when required, purpose-limited and correctable.
+What to check: Source/incentive lineage; lawful purpose; risk-scaled corroboration; competent recipient; correction/contestation.
+Possible breakdown: Information infrastructure functions, but an unwarranted or uncorrected assertion is accepted as reliable for a material decision.
+Related responsibilities and lawful controls: Technical system availability is not the same as the reliability of its information or the legal effect of an official record. Privacy limits and lawful confidentiality must be respected.
+Independent oversight (F09)
+Responsibility: Route independently warranted findings to accountable corrective actors and verify later capacity, where those links are required.
+What to check: Applicable standard; inspectable population and modality; finding; recipient; dated remediation and retest.
+Possible breakdown: A valid finding cannot reach responsible action or verification, even though inspection and operating offices survive.
+Related responsibilities and lawful controls: An oversight finding, the resources for a response, implementation of a correction, and later verification are distinguishable. Different inspection systems may have different statutory duties.
+Program delivery (F10)
+Responsibility: Convert lawful, funded programs and rules into real, accurate and timely decisions, services and infrastructure operation.
+What to check: Dated program/authority; skilled carrier and systems; stage-specific measure; delivery; lawful review.
+Possible breakdown: Authority and resources survive but staffed, technical or program performance fails at the actual public-consequence stage.
+Related responsibilities and lawful controls: Funding permission, evidentiary reliability, federal–state or Tribal authority, and institutional succession may each be separate questions. A functioning system is not deficient merely because a preferred program design differs.
+Federalism and Tribal sovereignty (F11)
+Responsibility: Respect the separate legal powers of federal, state, and Tribal governments while carrying out duties that require lawful cooperation.
+What to check: Exact parties, treaty/statute/compact, legal time/territory, consultation/consent and final powers.
+Possible breakdown: An owed crossing or answer fails, or unearned authority crosses a legal boundary, despite viable parties and process.
+Related responsibilities and lawful controls: Election administration, ordinary service delivery, international relations, and domestic sovereign powers must not be collapsed into one authority. Lawful consultation and cooperative arrangements can be functioning safeguards.
+Foreign and security powers (F12)
+Responsibility: Maintain lawful foreign, security, treaty, border, trade and external-effect interfaces under proper domestic constraints.
+What to check: Named external subfunction; authorized domestic actor and instrument; receiving boundary; permitted refusal/action and review.
+Possible breakdown: A legally required external action cannot be taken, or an action exceeds the domestic authority and constraints that govern it.
+Related responsibilities and lawful controls: Executive force, Senate advice and consent where applicable, and domestic federal–state–Tribal jurisdiction are separate legal questions. A lawful refusal or unexercised power can be an appropriate outcome.
+Continuity and succession (F13)
+Responsibility: Make lawful institutional change possible without losing obligations that remain in force or continuing powers that have expired.
+What to check: Old carrier/legal termination; inventory of surviving claims and duties; lawful successor/OPEN disposition; transition evidence.
+Possible breakdown: A right or duty that survives an institutional change has no authorized institution to carry it out, or a terminated power continues to be exercised.
+Related responsibilities and lawful controls: Official records, funding, and routine program management must be distinguished from the legal duty to transfer surviving obligations. No general rule requires every office or program to continue indefinitely.
+3. How the areas connect without double-counting
+The same inquiry may involve several responsibilities at different stages. Those connections do not make the areas interchangeable and do not create additional legislative proposals.
+Connected responsibilities
+	Distinct stages
+	Where to locate the inquiry
+	F01 → F08 → F06/F10 → F07
+	Person entry; warranted claim; lawful judgment/service; later corrected status
+	Assign at the actual first impaired or successfully tested stage, not the chain's most visible agency.
+	F03 → F04 → F10 → F09
+	Lawmaking/oversight power; spendable means; delivery; repair verification
+	Parliamentary powers ≠ budget availability ≠ public output ≠ validated correction.
+	F05 ↔ F08/F09
+	Coercive trigger, credible evidence, inhibition and independent review
+	Trigger/taper and continuing rule are separately timed; lawful restraint is a control.
+	F02 ↔ F11 ↔ F07
+	State electoral authorization; jurisdictional crossing; operative certification memory
+	H07 validates a bounded working path; no assumption of national election-wide results.
+	F06 ↔ F07 ↔ F10 ↔ F09
+	Judgment; operative order; performed compliance; retest
+	A court order need not imply delivered service; independent retest is not the court's judgment.
+	F11 ↔ F12
+	Domestic nested jurisdiction versus international/external constitutional crossing
+	Tribal governments are distinct sovereigns; do not treat domestic treaty/compact authority as foreign-policy authority.
+	F04 ↔ F07 ↔ F10 ↔ F13
+	Existing obligation; authoritative records and funds; active carrier; lawful successor
+	Closing an office is neither extinguishing its duties nor automatically funding a replacement.
+	F08 ↔ F10 ↔ F07 ↔ F09
+	Information provenance; technical operation; legally effective version; correction loop
+	Shared digital infrastructure may be important, but a new family requires proof of non-absorbable work.
+	Assign each specific inquiry to the responsibility at which the relevant problem—or functioning safeguard—is actually located. If the evidence does not yet distinguish between two or more areas, record the alternatives and the facts needed to decide. Related responsibilities may be noted, but the same problem should not be counted as multiple findings. A single proposed mechanism may eventually address several independently established problems.
+Certain questions apply across the entire map rather than belonging to one area: whether a proposed intervention has a lawful constitutional or statutory route; whether claimed measurements are valid for the population, period, and decision at issue; and whether an apparent local problem supports any broader institutional conclusion. Fiscal analysis is a later requirement for sufficiently developed proposals, not an estimate supplied by this atlas.
+4. Federal research-topic index (optional technical reference)
+The following twenty topics provide a research index for readers who want to connect a policy issue to one or more governmental responsibilities. The letter-number references link each entry to the underlying research record; they are not additional responsibilities or findings of failure. A single policy topic may require several legally distinct inquiries.
+Federal research topic
+	Likely starting area
+	Other areas to consider
+	What to check before calling it a failure
+	01 — Elections, franchise and representative continuity
+	F02 representative authorization
+	F01 lawful voter/ballot entry; F07 operative certification; F11 state→federal authority crossing; F08 evidence and D-X08
+	Fix election, jurisdiction, certified consequence and required recipient. D-X01/R09. Properly completed Georgia H07 certification is a functioning control; an adverse election result alone is not pathology.
+	02 — Legislative capacity, oversight, appropriation and institutional gates
+	F03 chamber powers
+	F04 specific appropriations permission; F09 oversight finding→response; F07 binding record; F01 constituent intake
+	Separate Senate B09/R10 from House and bicameral D-X02. H05 lawful Senate gate is a control, not an institutional failure merely because a desired outcome failed.
+	03 — Presidency, delegated executive authority, emergency action and implementation
+	F05 if power/coercion, F10 if continuing implementation
+	F04 lawful apportionment; F07 prior law; F13 termination/succession; F12 external action
+	Select incident trigger/taper (R03) versus authorized rule duration (R04) versus fiscal availability (R06). H03 withholding requires an actual legally identified act, not a broad executive-pathology label.
+	04 — Federal judiciary, factfinding, due process, adjudication and remedies
+	F06 evaluation and judicial remedy
+	F01 court access; F07 mandate carried forward; F09 verification of correction; F10 bound agency delivery
+	Distinguish adverse-but-lawful judgment from failure of review, and issued judicial order from downstream implementation. B02, D-X03 and R13 require separate proofs.
+	05 — Federalism, Tribal sovereignty and interjurisdictional obligations
+	F11 distinct jurisdictions
+	F01 owed participation; F07 operative treaty/prior decision; F10 delegated implementation; F13 transfer
+	R09/D-X06: separate sovereign parties, actual treaty or agreement, consultation and final power. Reported Leech Lake cooperation does not collapse authority; missing additional authority is not itself a breach.
+	06 — Civil rights, detention, discrimination, access and enforcement
+	F01 person/claim entry or F05 fixed coercion
+	F06 adjudication; F09 independent oversight; F07 continued remedy; F08 evidence; F10 compliance delivery
+	Intake, classification correction (B03/R02 conditional), coercive event (B08/R03 conditional), judgment and repair are different possible first breaks. Mere allegation or protected-class category does not fix owner.
+	07 — Information integrity, official records, privacy and source validity
+	F08 source warrant
+	F07 authoritative legal record transport; F10 infrastructure availability; F09 audit response; F01 status correction
+	B06 provenance and B04 live later answerability are distinct. Technical uptime is not evidentiary truth; lawful confidentiality or record deletion can be a legitimate control.
+	08 — Federal fiscal systems, tax administration, payment integrity, debt and procurement
+	F04 resource authority/carriage
+	F10 tax service or procurement execution; F08 invalid payment evidence; F07 prior binding appropriation; F09 audit response
+	Separate lawful tax/revenue permission and usable funds from agency processing, fraud allegations and public output. H03/H04 opposite ICA assessments show why appropriations contexts cannot be merged.
+	09 — Labor, wages, collective bargaining, retirement and social insurance
+	F10 ongoing program/service
+	F01 claim entry; F06 final court review; F09 oversight; F13 retirement-carrier transition; F04 legally spendable resources
+	Exact statutory duty and employer/benefits actor determine route. Valid rejection, correct payment and successful reinstatement are controls; sector label does not establish a single labor physiology.
+	10 — Health care, disability, public health, products and emergency readiness
+	F10 benefits/health delivery
+	F08 epidemiological warrant; F01 claimant entry; F05 specific coercive emergency act; F09 evaluation; F04 capacity; F13 sunset
+	Distinguish persistent emergency rule (R04), acute action (R03) and actual service. H09 DDS stage cannot be replaced by overall initial-claims processing average.
+	11 — Housing, mortgage finance, mobility, homelessness and disaster insurance
+	F10 program delivery
+	F01 claim/grievance; F04 disbursement permission; F11 recipient-state/local authority; F13 transfer; F09 repair validation
+	Program, household, appeal, funding and handoff dates required. An appropriately rejected benefit or valid program retirement is a control.
+	12 — Families, children, education, childcare, food and nutrition
+	F10 services under applicable program
+	F01 family/child claim and limited B03 correction; F11 federal/state education boundary; F04 funds; F07 corrected status; F09 remedy
+	Do not infer a uniform federal command over local education or a single person-classification rule. B03/R02 only on named legally material downstream classifications.
+	13 — Immigration, asylum, borders, detention and family continuity
+	Conditional: F12 external admission/crossing; F01 family/asylum claim; F05 detention/removal act
+	F07 transfer/reunification records; F06 court remedy; F09 OIDO/inspection; F10 immigration service; F11 competence interface
+	An explicit three-way intake is required. H01 (separation→records→court delivery) and H06 (statutory monitor vs operations) should not be filed as one undifferentiated “border” failure. B07 ≠ all immigration, B08 ≠ all custody administration.
+	14 — National security, intelligence, military, veterans and procurement
+	Conditional: F08 FISA/intelligence warrant; F05 force event; F12 external security power
+	F03 named Senate gate; F10 veterans/procurement service; F04 appropriations; F09 oversight; F07 records
+	FISA document accuracy (H02) is different from deployment trigger, foreign-state exchange, Senate treaty action or VA benefits. Do not import executive force into every intelligence investigation.
+	15 — Environment, climate, agriculture, water, energy and disasters
+	F10 lawful regulatory/program performance
+	F08 hazard measurement; F11 Tribal/state/water jurisdiction; F04 funds; F09 monitoring; F13 lawful transition; F05 actual coercive emergency action
+	Site and legal program determine job. H08 land agreement tests F11; an EPA measurement question tests F08. Lawful ongoing rule or correctly managed sunset can defeat a blanket deficiency.
+	16 — Technology, infrastructure, telecom, AI, cybersecurity and supply chains
+	F10 technological operating capability
+	F08 reliability/provenance of consequential information; F07 operative data transfer; F09 cybersecurity response; F04 maintenance resources; F13 migration/succession
+	D-X07 tests source validity, system uptime, data lineage and later legal effect separately. Shared infrastructure dependence is the highest-priority family-boundary stress test, not an automatically new “technology organ.”
+	17 — Industry, antitrust, trade, commerce, consumer finance and competition
+	F10 continuing regulatory/market enforcement service
+	F08 warranted market claims; F01 complaint input; F06 judicial remedy; F09 post-order response; F12 true external trade crossing; F11 regulatory jurisdiction
+	A complaint is not an adjudicated violation; market disagreement not constitutional failure. “Trade” joins F12 only with a specifically external legal crossing.
+	18 — Foreign relations, diplomacy, sanctions, treaties and foreign assistance
+	F12 external authorized exchange/refusal
+	F03 actual Senate treaty/nomination gate; F04 foreign-assistance execution; F07 inherited commitment; F08 source warrant; F05 coercive action
+	R11/B07 operate at a specific subfunction. H03/H04 distinguish DoD USAI withholding from State FMF lawful discretion; no assumed Senate consent for all foreign engagement.
+	19 — Federal workforce, hiring, backlogs, administrative adjudication and citizen service
+	F10 operational delivery
+	F01 intake; F04 usable resources; F07 records; F09 monitoring and correction; F13 reorganization; F11 state-run federal carrier
+	Service-specific clocks, personnel and population required. H09 state DDS receipt→release and federal filing→decision clocks cannot substitute for one another. Workforce change alone proves no loss.
+	20 — System-to-system dependencies and cross-program interfaces
+	Cross-area inquiry: identify the first responsibility at which the evidence establishes a failure
+	F07 R05; F04 R06; F09 R07/R13; F13 R08; F11 R09; F01 R01/R02; F10 delivery; strict whole-owned R12
+	This topic examines relations among existing responsibilities rather than adding a fourteenth area. Identify the institutions involved, the legally required handoff, what continued to work, what failed, and any correction. A broader institutional conclusion requires an independently established standard and evidence at the level being evaluated; ordinary interagency contact does not establish a system-wide failure.
+	5. Technical source crosswalk (optional reference)
+5.1 Ten source D-B entries
+S1 code, exact indexed job
+	F2 inquiry owner
+	Conditional helpers / source-lane check
+	Status and omission guard
+	D-B01 Person Boundary and Civic Signal Entry
+	F01
+	F02/F06/F10/F11; S2 lanes 01, 04, 06, 09–13, 19
+	Active. A legally cognizable claim, proper recipient and required answer must be fixed; private dissatisfaction is not itself breach.
+	D-B02 Judicial Perception and Interpretive Calibration
+	F06
+	F01/F07/F08; 04, 06, 13; 01 conditional
+	Active. Only judicially assigned decisions, not all administrative judgments.
+	D-B03 State Identity Interface
+	F01
+	F07/F08/F10; 06, 12, 13, 01 conditional
+	Active local candidate; material legally governed classification and warranted downstream correction required.
+	D-B04 Constitutional Memory
+	F07
+	F03/F06/F13; 01–05, 07–08, 13, 18–20
+	Active. Live later answerability, not merely stored data.
+	D-B05 Durable Regulatory Signaling
+	F10
+	F05/F13; 03, 07–10, 14–17, 19
+	Active. Lawful continuation or sunset may be success.
+	D-B06 Information Metabolism and Informant Corroboration
+	F08
+	F01/F06/F09; 01, 03, 06–08, 10, 13–18, 20
+	Active. Source independence and material relevance required; privacy/authorized secrecy may constrain public records.
+	D-B07 External Boundary and Foreign Interface
+	F12
+	F03/F05; 03, 13, 14, 18
+	Active routing candidate; scoped subfunction and exact crossing required.
+	D-B08 Executive Force and Reflex Review
+	F05
+	F08/F09; 03, 06, 13–14 conditional
+	Active. A named action, event clock, trigger and inhibition; not all executive administration.
+	D-B09 Senate Boundary-Gate Functions
+	F03
+	F12/F07; 02, 18, 03/14 conditional
+	Active scope-bound candidate; actual same Senate power, threshold and next effect only.
+	D-B10 Legitimacy — Public Uptake / Pulse
+	S0 transverse, with case's true F owner
+	F01/F03/F06/F09 can supply signals; 02–04, 06, 20 conditional
+	Active pulse under CP01/CP02. Not a separate family or substitute for Recognition, Coherence, Density or a popularity score.
+	5.2 Fourteen source D-R relations
+S1 code and held coordination question
+	F2 first route
+	Mandatory interface / source-lane check
+	Non-duplication or trigger constraint
+	D-R01 person signal → verified evaluation/answer
+	F01
+	F08 warrant; F06 if court; lanes 01–02, 04–06, 09, 11–13, 17, 19–20
+	First break could move to F08/F06 after evidence; an accessible lawful rejection is a control.
+	D-R02 corrected classification → bound later actor
+	F01
+	F07 transport, F10 receiver; 06, 12–13, 01 conditional
+	B03 stays a candidate; requires precise binding correctable status.
+	D-R03 rapid response → appropriate inhibition/taper
+	F05
+	F08 trigger evidence; F09 review; 03, 06, 10, 13–14 conditional
+	Incident timing, not the duration of enabling rule R04.
+	D-R04 continuing rule → feedback/adaptation
+	F10
+	F08 evidence; F13 if carrier ends; 03, 08–10, 14–17
+	Authorized unchanged rule or sunset can be success.
+	D-R05 operative prior difference → successor
+	F07
+	F13 on actual carrier change; F01/F06 as issuer; 01–08, 13, 16, 18–20
+	Transport loss requires legally relevant later use; not every record or data packet.
+	D-R06 lawful resource → function delivery
+	F04
+	F10 executing receiver; F09 budget monitoring; 02–03, 05, 08–12, 14–20
+	Two-stage legal permission versus available operational carrying; no outcome inferred from dollar figure.
+	D-R07 verified finding → competent response/verification
+	F09
+	F08 validation; F10/F06 response; 02–03, 05, 07–10, 13–20
+	Complaint volume/inspections are not automatically independent findings or successful correction.
+	D-R08 lawful retirement → surviving duties and claims
+	F13
+	F07 inherited records; F04 resources; 03, 05, 08, 11, 15, 19–20
+	Do not require that a lawfully ended program live forever; require only actually surviving obligations.
+	D-R09 nested jurisdiction → authorized transport/restraint
+	F11
+	F02 election; F10 grant/state service; 01, 05–06, 09, 11–13, 15, 17, 19–20
+	Preserve distinct Tribal sovereign status, federalism limits, consent and no commandeering inference.
+	D-R10 particular Senate gate → proper next effect
+	F03
+	F12 treaty; F07 official result; 02, 18, 14 conditional
+	Applies only to same named Senate power; not House or generic congressional gridlock.
+	D-R11 external crossing → domestic constraint
+	F12
+	F05 force; F03 actual Senate gate; 03, 13–14, 18
+	External lawful refusal is possible control, no single foreign-policy totalization.
+	D-R12 whole-owned Recognition/Coherence inquiry
+	S0 whole-level gate
+	Case-specific F witnesses; 01–04, 07, 20 STRICT conditional
+	No family ownership, no whole failure from a single local case, no Density claim without full fixed-level support test.
+	D-R13 effective remedy → same future capacity
+	F09 if nonjudicial oversight/correction junction; F06 if implementation of a court-ordered remedy; otherwise case-specific F of lawfully assigned repair carrier
+	F07 operative order, F10 execution, S0 dedup; 04, 06–07, 09, 11–13, 17, 19–20
+	One primary owner per fixed module. Issuance of a judgment is F06, carrying it into effect may be F06 for order-compliance or F10 for an independent service-execution failure; F09 owns verification as such. No double-counted same loss.
+	D-R14 correct constitutional/statutory intervention vehicle
+	S3 universal legal gate (no family)
+	All families; source's principal lanes 01–06, 08, 13, 18; elsewhere only when an actual proposed mechanism arises
+	S3 must check existing remedy and jurisdiction first, then appropriate agency/chamber/statute/appropriation/Article V route; D-R14 lane index is not a restriction on legal review of proposals in other lanes.
+	5.3 Eight source D-X coverage flags
+S1 coverage flag
+	F2 entry / check
+	Source-lane coverage
+	Mandatory guard
+	D-X01 electoral authorization
+	F02
+	01
+	State/local certification→lawful federal consequence; H07 functioning control.
+	D-X02 House and bicameral operations
+	F03
+	02
+	B09 Senate-specific power cannot substitute for actual House, bicameral presentment or chamber rules.
+	D-X03 execution of court remedy
+	F06, F07/F10 as delivery dependencies
+	04, 06, 13
+	Announced judgment ≠ carried remedy; do not invent a court power over separate actors.
+	D-X04 administrative carrying capacity
+	F10; F04 for usable funding
+	02, 08–13, 16, 19
+	Actual staffing, systems, contract, training and claim-stage outputs separate from appropriations.
+	D-X05 public input beyond courts
+	F01, F03 if specific congressional receiving duty
+	02, 19
+	Proper receiving/answer requirement must be identified; no generalized mandatory response to all messages.
+	D-X06 Tribal sovereign distinctness
+	F11
+	05, 15 conditional
+	Tribe is not folded into state/local service apparatus; treaty/compact/legal powers and record autonomy.
+	D-X07 cyber, technology and AI
+	F10 operations; F08 warrant; F07 legally operative data
+	07, 14, 16, 20
+	Test technical availability vs evidence truth vs lawful version transport; no diagnosis from AI label.
+	D-X08 valid measurement and denominator
+	S2 evidence gate + S4 measure gate; any relevant F
+	all 20, only when measurement asserted
+	Fix group, stage, period, jurisdiction, rate denominator and contrary findings; source describes potential quality check, not annual observed values in every lane.
+	5.4 Seven source CP-C provisional/composite candidates
+S1 local/composite label
+	F2 destination
+	F2 outcome / exact condition for reconsideration
+	CP-C01 Resource Circulation
+	F04/R06
+	LOCAL-CANDIDATE/OPEN. Check whether source-side raising, authorization and delivery have a selective non-absorbable failure before a distinct owner; no automatic “tax organ.”
+	CP-C02 Independent Monitoring/Escalation
+	F09/R07
+	COORDINATION/INDEPENDENCE OPEN. A lawful separate monitor may be required in a case; does not promote an independent CP source function.
+	CP-C03 Renewal/Autophagy
+	F13/R08
+	LOCAL-CANDIDATE/OPEN. Distinct successor duty can warrant a family; does not prove universal program sunset.
+	CP-C04 Public-Record Circulation
+	F07/R05
+	COORDINATION/LIKELY ABSORBED by operative Memory unless an actual non-absorbed information transport break is shown.
+	CP-C05 Nested Coordination
+	F11/R09
+	LOCAL-CANDIDATE/OPEN. Separate Tribal and state/federal legal competence required.
+	CP-C06 Whole-Level Adaptation
+	S0/R12 whole-level inquiry
+	WHOLE-LEVEL INQUIRY/EXTRA OBJECT OPEN. Not quietly collapsed into F13 or proclaimed new function.
+	CP-C07 Civic Immune Response
+	F05↔F08↔F09
+	COMPOSITE/INDEPENDENT OBJECT NOT EARNED. Named threat, warrant, response and independent correction remain distinguishable.
+	The source tables above account for the research categories used to build the present map. Their counts show that these recorded categories have been assigned or reserved for further inquiry; they do not establish that the map exhausts every possible governmental responsibility.
+6. Historical examples: possible problems and functioning safeguards
+The following nine examples show how the method distinguishes different responsibilities and respects contrary evidence. Each summary is limited to the underlying research record; the examples are not a representative survey of government performance. The letter-number labels identify source cases, not proposed legislation.
+Historical example
+	Related responsibilities and safeguards
+	What the example does not establish
+	H01
+	F07 relationship record; F06 court enforcement; F10 later service; F01 claim. Court-approved Ms. L. settlement and later specific enforcement are real.
+	That a court order proves all subsequent delivered services or permanent repair.
+	H02
+	F08 FISA/Woods accuracy and independently scoped F09 management response; partial reported recommendation closure.
+	Postreform filing accuracy or equivalence of separate OIG samples and DOJ-wide review.
+	H03
+	F04: GAO-identified 2019 USAI Impoundment Control Act breach with later fiscal correction.
+	That every foreign-assistance implementation failure remains or that new statute is necessarily needed.
+	H04
+	F04: separate State FMF comparison produced a lawful/no-ICA-breach control.
+	That H03/H04 are a Lean same-burden paired counterfactual; they involve different legal scopes.
+	H05
+	F03: recorded Senate confirmation gate worked; potential lawful rejection also counts as valid inhibition.
+	Failure solely because a preferred Senate result did not occur; any bill proposal.
+	H06
+	F09 inspection/verification; F04 funds; F10 staffed action; F13 duty succession. §205 role survived operational inspection cessation as reported; alternate inspection channels persisted; Aurora had both correction and repeated pre-redesign clinical-check deficiency.
+	The actual lawful OIDO FY2026 balance, universal detention deterioration, verified May 2026 original Aurora outcome, or national post-redesign causal effect.
+	H07
+	F02+F11+F07: Georgia 2024 state audit and lawful electoral transport were functioning controls.
+	National electoral integrity or every individual ballot/appeal claim.
+	H08
+	F11: documented 2019 five-year MOU and contemporaneously reported October 2024 successor signing; co-stewardship functioning control.
+	Signed 2024 successor terms, a specific owed consultation breach, or universal cross-agency self-governance power.
+	H09
+	F10 DDS claim-stage performance; F01 claimant entry; F09 oversight; F11 state/federal roles. Initial backlog/processing impairment coexisted with appeals improvement and executed administrative initiatives.
+	DDS state-quarter Title II/XVI rates from national filing-to-notice means; verified claimant-specific deadline violation; full national closure.
+	Two illustrative inquiries — one functioning safeguard and one unresolved question
+Functioning safeguard — H05 (congressional authority). The April 2022 Senate confirmation/cloture example concerns a specific procedural decision. The relevant check is whether the Senate exercised the lawful power, threshold, and recorded effect applicable to that proceeding. The source record describes the gate functioning; an unwanted political result is not by itself a constitutional failure. This example generates no legislative proposal.
+Unresolved question — H06 (oversight, delivery, and resources). The record concerning the statutory §205 Ombudsman role examines independent inspection and complaint-response responsibilities during 2025–26. It distinguishes statutory duties, lawful funding availability, operating capacity, findings, responses, and later verification. The record reports cessation of OIDO inspections after January 2026, but the actual FY2026 funding balance and the disposition of all surviving duties remain unresolved. Other ODO, IHSC, OIG, and CRCL oversight or operating pathways must be considered. No bill is proposed on this record.
+These examples show why a working safeguard may call for no new law, while a possible problem may require further evidence before any legal change is justified.
+7. When the map should be reconsidered
+Watch
+	Current treatment
+	Reconsider only if the evidence shows…
+	W1 shared technical infrastructure
+	F10 operations + F07 records + F08 warrants + F09 validation, F13 transition; NO F14
+	A specific cross-government technical failure demonstrates a distinct public responsibility not adequately addressed by the existing areas, after checking legal authority, evidence, and other explanations.
+	W2 independent revenue-source function
+	Remains F04 legal financial carriage / F10 tax service; NO FINANCE SPLIT
+	Raising/debt/source continuity demonstrates a nonabsorbed job not expressed by existing fiscal and delivery crossings.
+	W3 substantive rights within broad F10
+	Claim/rights are not F10's exclusive contents; entry F01, judgment F06, sovereign limit F11, delivery F10.
+	An actual right and first break cannot be assigned without obscuring a material legal difference.
+	W4 F06/F09 remedy verification
+	Court decision, operative binding record, public service and independent retest remain separable; one owner per bounded stage.
+	A fixed module involves a novel repair interface unowned by current family.
+	W5 F07/F13 succession
+	Stored/inherited obligation ≠ endowed successor carrier; no automatic duty discharge on office retirement.
+	Evidence of a legally new continuation job distinct from inherited R08/R05.
+	Depth F05/F12/F13
+	Retained as source-grounded or relation-grounded candidate family jobs.
+	New representative independent case tests are needed before stronger empirical generalization.
+	The thirteen areas are stable reference categories for this edition, but they are revisable. Adding, merging, or retiring an area requires a distinct responsibility that the existing map cannot adequately handle, review of affected research topics and examples, and a documented transition for any inquiries already classified. New subject matter or technology alone does not establish the need for another area.
+8. Requirements for developing an inquiry
+The companion Inquiry Worksheet provides a reusable way to document a specific question: the responsible institution, relevant legal authority, affected people and time period, primary and contrary evidence, functioning safeguards, available remedies, implementation requirements, and any case for change. An inquiry may remain open, be resolved through existing means, or support further legislative development. No submission to the original project is required.
+Work may progress from an initial lead through bounded evidence review, legal-authority analysis, and development of a specific mechanism. A separate, more demanding review is appropriate before anyone describes a legislative proposal as ready for use. A properly examined issue may also conclude that a safeguard worked, no failure was established, or no new law is needed.
+If a change is warranted, the inquiry should compare lawful means already available, identify the authority required for any new mechanism, and examine implementation and fiscal consequences. Formal verification may test specified logical constraints, but it cannot establish factual premises or legal conclusions on its own. Naming an inquiry does not produce a bill.
+9. Formal verification and its limits
+The accompanying Lean sources check seven specified structural requirements, including nonduplicative responsibility assignments, limits on authority, valid measurement comparisons, the distinction between functioning controls and failure claims, separate evidence of authorization and implementation, and preservation of surviving obligations when institutions change. These checks apply to the formal model and its stated assumptions.
+On November 8, 2026, the recorded combined source passed Lean 4.34.0 with exit code 0, both expected completion markers, and no captured compiler errors. A separate check examined dependencies for four selected theorems. The source files, hashes, commands, and bounded results are documented in the accompanying formal verification record.
+The formal framework links a general foundation, governmental-function models, congressional requirements, and this thirteen-area architecture. Some theorems depend on assumptions supplied by particular applications. A successful Lean run does not decide whether a historical claim is correct, a public action is lawful, a budget is sufficient, or a proposed statute will work.
+10. How to use and challenge the map independently
+Start with the Public Prospectus, choose an area relevant to your question, and use the Inquiry Worksheet to record the issue, evidence, legal authority, functioning safeguards, available remedies, resources, and how a proposed change could be evaluated. You may use or adapt these tools without submitting work to the original program or seeking its approval. Keep source-based findings separate from the map used to organize them.
+The twenty federal topics and nine historical examples are not a national inventory of failures. The underlying records include specified corrections to earlier H01, H02, and H06 claims, together with later targeted updates concerning H06, H08, and H09. Those corrections apply to identified claims rather than replacing every earlier observation. Readers using the examples should consult the relevant source records and their dated updates.
+Independent reviewers can test the map with contrary primary sources, functioning counterexamples, legal-authority analysis, better measurements, fiscal evidence, or reproducible formal countermodels. Collaboration and corrections are welcome but not required. Protect private information and confidential government or Tribal-controlled materials.
+11. Sources and revision principles
+This edition draws on the underlying functional research map, the twenty federal research topics, the historical case records, legal-source examinations, and documented corrections. The full development record remains available separately where released. Changes to the thirteen areas should state which responsibilities and prior inquiries are affected and why the revision is warranted. Editing this atlas does not itself create a new legal, historical, or fiscal finding.
+________________
+AI-Assistance Disclosure
+During the development of this document, the author used generative AI tools to assist with drafting, organization, language refinement, and consistency review. The substantive architecture, research judgments, scope decisions, and final editorial choices remain the author's responsibility. The author reviewed and approved the final document and takes responsibility for its content.

@@ -1,0 +1,105 @@
+﻿Constitutional Maintenance Program — Public Prospectus
+For the 120th United States Congress (2027–2029)
+The purpose
+I'm building a research and legislative-development program to help answer a practical question: When government has a constitutional responsibility, how can we determine whether the responsible institution can fulfill it—and what should change if it cannot?
+Sometimes an institution has clear legal duties but lacks the funding, staff, reliable records, practical capacity, or independent verification needed to fulfill them. Sometimes the law and its implementation work as intended. The program must distinguish these situations without treating every disagreement or disappointing outcome as a constitutional failure.
+This project begins with a plan, a working architecture and formal source code, not a proposed package of laws. Individual inquiries will mature independently. Some may support new legislation; others may show that existing law is sufficient, that a lawful control worked, or that further evidence is required.
+Thirteen areas of constitutional maintenance
+These areas organize the program’s work. They are not separate legislative proposals or findings that the government has failed. The companion Family Architecture Atlas explains each area in greater detail.
+Area
+	Question we would investigate
+	Claims and correction
+	Can a person bring a consequential claim or correction request to the public institution legally responsible for handling it?
+	Representation and elections 
+	Do lawful election results and decisions made through representative government reach the institutions responsible for acting on them?
+	Congressional authority 
+	Do Congress’s deliberation, investigation, lawmaking, and oversight powers operate within the rules and limits governing each?
+	Public resources 
+	Can legally authorized funding and resources reach the duties they are supposed to support?
+	Executive power and limits 
+	Are coercive and emergency actions authorized, constrained, reviewed and ended when required?
+	Courts and remedies 
+	Can courts resolve disputes and provide remedies that the responsible institutions can put into effect?
+	Continuing public records 
+	Are binding decisions, corrections, and obligations accurately preserved so successor officials and institutions can act on them?
+	Reliable government information 
+	When information is used for important government decisions, are its sources documented, its accuracy checked, its use kept within proper limits, and errors open to correction?
+	Independent oversight 
+	Do credible findings lead to accountable response and verified correction where required?
+	Program delivery 
+	Do authorized public programs deliver accurate, timely and accountable services?
+	Federalism and Tribal sovereignty 
+	Are different governments' lawful powers respected while necessary duties and cooperation continue?
+	Foreign and security powers 
+	Do external commitments, border and security powers remain within applicable constitutional limits?
+	Continuity and succession 
+	When offices or institutions change, are continuing rights and duties lawfully transferred, maintained, or concluded?
+	The categories can be revised when evidence shows a distinct responsibility that the present map cannot adequately describe. They are a navigation tool, not conclusions about the federal government.
+How a specific question becomes a possible proposal
+Each inquiry begins by identifying the public responsibility, who bears it, what is needed to fulfill it, and what would be at stake if it were not fulfilled.
+The inquiry identifies who is affected, which public institution and legal rules are involved, where and when relevant events occurred, what the evidence supports, and which competing explanations or existing safeguards must be considered. It asks whether current law, enforcement, or administrative action already addresses the issue. A new legal or administrative mechanism is considered only when warranted, with attention to who could implement it, its cost, oversight, and how success would be measured.
+A historical event does not automatically establish a general problem, and an inquiry does not automatically justify legislation. Several inquiries may point to one possible change; others may show that existing safeguards work or that no new law is needed.
+What has been built so far
+The program now has a working architecture covering thirteen areas of governmental responsibility, together with a common method for examining specific questions. Supporting research includes a map of government functions and documented historical examples used to test whether the method distinguishes possible failures from lawful or functioning arrangements. These examples are not a nationwide survey and do not establish how widespread any particular problem may be.
+The program also includes a formal mathematical architecture written in Lean, a language used to define and check mathematical models. On November 8, 2026, the combined source connecting the general foundation, governmental functions, congressional application, and thirteen areas passed Lean 4.34.0 with exit code 0 and no compiler errors. The source files, verification record, and instructions for reproducing the check accompany the program.        
+The model addresses responsibility, resources, the handling of evidence, and the continuity of public obligations. Lean checks its formal statements and proofs as written, under the assumptions encoded in the model. It does not determine whether a government action was lawful, whether an account of a historical event is correct, or whether a proposed statute would work. Those questions require legal, historical, fiscal, and implementation analysis.
+Using the architecture with an LLM
+The program's tools can be used directly or with the help of a large language model (LLM). A person can bring a governmental question, relevant records, and the Public Prospectus, Family Architecture Atlas, and Inquiry Worksheet to an LLM. With the Lean files as an additional resource, the LLM can help identify responsible institutions, distinguish legal authority from practical delivery, examine existing safeguards, identify missing evidence, and develop possible responses. The person directs the inquiry, checks the sources, and decides what action, if any, to pursue.
+Where additional mathematical precision would help, an LLM can assist in developing new formal statements or tests using the supplied Lean architecture. Those extensions must be checked in Lean, with their assumptions made explicit. An LLM's assertion that a proof works is not a compiler result. A successful Lean check establishes what follows from the encoded mathematical model; it does not establish the accuracy of historical evidence, the legality of government conduct, or the practical effectiveness of a proposed change.
+No prior knowledge of Lean, institutional sponsorship, or approval from the original project is needed to begin. Participants may use the tools independently, challenge the architecture, and develop conclusions or proposals supported by their own evidence and judgment.
+What comes next
+The next work is to select a small number of clearly defined questions, examine primary records, test competing explanations against examples of existing safeguards that work, review current legal authority, and develop possible changes only where warranted. Early areas of study may include whether oversight findings lead to verified correction, whether resources reach assigned public duties, whether binding legal remedies survive institutional changes, and how public programs demonstrate reliable service delivery. These are research priorities, not predetermined legislative recommendations.
+The program is intended for independent use. Congressional offices, researchers, civic organizations, and other interested participants can use the architecture and Inquiry Worksheet to investigate questions, examine primary sources, test whether existing safeguards work, and develop or challenge possible proposals. They do not need to submit their findings to the program or obtain central approval of their conclusions. Voluntary collaboration, corrections, and shared findings are welcome. Sensitive personal records and confidential government or Tribal information should not be shared through public channels. 
+The commitment is to make claims traceable, distinguish functioning systems from failures, and allow the evidence—not the architecture—to decide whether legislation is needed.
+________________
+AI-Assistance Disclosure
+During the development of this document, the author used generative AI tools to assist with drafting, organization, language refinement, and consistency review. The substantive architecture, research judgments, scope decisions, and final editorial choices remain the author's responsibility. The author reviewed and approved the final document and takes responsibility for its content.
+________________
+
+
+Constitutional Maintenance Program — Public Prospectus
+For the 120th United States Congress (2027–2029)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Signed,
+
+
+
+
+Rick
